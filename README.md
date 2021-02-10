@@ -1,1 +1,1 @@
-# BInaryTree
+# BinaryTree
