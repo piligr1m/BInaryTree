@@ -1,6 +1,6 @@
 ////
 //  main.cpp
-//  2.3
+//  BinaryTree
 //
 //  Created by Stanislav Martynov on 01.01.2021.
 //
